@@ -1,15 +1,20 @@
-# CheckBox-with-React
-
-### Basic checkbox with validation
-
-- ES6
-- React 
-- JSX
-- JavaScript
 
 
+# checkbox validation
 
+Basic checkbox validation
 
-[You can see the result here](https://kierepkae.github.io/CheckBox-with-React/)
+## tech 
+
+- `ES6`
+- `React` 
+- `JSX`
+- `JavaScript`
+
+## Usage
+
+`npm start`
+
+`[You can see the result here](https://kierepkae.github.io/CheckBox-with-React/)`
 
 
