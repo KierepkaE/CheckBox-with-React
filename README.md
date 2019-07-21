@@ -11,10 +11,12 @@ Basic checkbox validation
 - `JSX`
 - `JavaScript`
 
-## Usage
+## usage
 
 `npm start`
 
-`[You can see the result here](https://kierepkae.github.io/CheckBox-with-React/)`
+## link
+
+[You can see the result here](https://kierepkae.github.io/CheckBox-with-React/)
 
 
