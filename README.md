@@ -1,12 +1,15 @@
 # CheckBox-with-React
-Simple checkbox with validation
 
-ES6, React, JSX, JavaScipt
+### Basic checkbox with validation
 
-Exercise done during course: www.websamuraj.pl - "React od podstaw - teoria i praktyka",
-www.udemy.com/user/samuraj-programowania/
+- ES6
+- React 
+- JSX
+- JavaScript
 
 
-You can see the reult here: https://kierepkae.github.io/CheckBox-with-React/ .
+
+
+[You can see the reult here] (https://kierepkae.github.io/CheckBox-with-React/)
 
 
