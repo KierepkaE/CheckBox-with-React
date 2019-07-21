@@ -10,6 +10,6 @@
 
 
 
-[You can see the reult here] (https://kierepkae.github.io/CheckBox-with-React/)
+[You can see the reult here](https://kierepkae.github.io/CheckBox-with-React/)
 
 
